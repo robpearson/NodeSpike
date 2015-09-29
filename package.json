@@ -1,0 +1,22 @@
+{
+  "name": "nodespike",
+  "version": "1.0.0",
+  "description": "Node.js Spike",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robpearson/NodeSpike.git"
+  },
+  "author": "Rob Pearson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robpearson/NodeSpike/issues"
+  },
+  "homepage": "https://github.com/robpearson/NodeSpike#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
